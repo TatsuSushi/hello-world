@@ -1,2 +1,5 @@
 # hello-world
-A repository
+
+Hi Humans,
+
+I am TatsuSushi and I am learning Node.js
